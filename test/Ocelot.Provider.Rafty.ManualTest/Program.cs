@@ -25,7 +25,8 @@
                 })
                 .ConfigureServices(s => {
                     s.AddOcelot()
-                        .AddSomething();
+                        .AddAdministration("/administration", "secret")
+                        .AddRafty();
                 })
                 .ConfigureLogging((hostingContext, logging) =>
                 {

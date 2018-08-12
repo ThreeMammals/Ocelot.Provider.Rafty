@@ -6,6 +6,8 @@
     using global::Rafty.FiniteStateMachine;
     using global::Rafty.Infrastructure;
     using global::Rafty.Log;
+    using Microsoft.Extensions.DependencyInjection;
+    using Microsoft.Extensions.DependencyInjection.Extensions;
 
     public static class OcelotAdministrationBuilderExtensions
     {

@@ -15,7 +15,7 @@
 
   <ItemGroup>
     <PackageReference Include="BenchmarkDotNet" Version="0.10.14" />
-    <PackageReference Include="Ocelot" Version="10.1.0-unstable0001" />
+    <PackageReference Include="Ocelot" Version="10.0.1" />
     <PackageReference Include="Rafty" Version="0.4.4" />
     <PackageReference Include="StyleCop.Analyzers" Version="1.0.2">
       <PrivateAssets>all</PrivateAssets>
