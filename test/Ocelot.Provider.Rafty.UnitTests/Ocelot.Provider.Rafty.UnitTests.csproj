@@ -36,7 +36,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Ocelot.Administration" Version="0.1.0" />
+    <PackageReference Include="Ocelot.Administration" Version="0.1.0"/>
     <PackageReference Include="CacheManager.Core" Version="1.1.2" />
     <PackageReference Include="CacheManager.Microsoft.Extensions.Logging" Version="1.1.2" />
     <PackageReference Include="Microsoft.AspNetCore.All" Version="2.1.1" />
