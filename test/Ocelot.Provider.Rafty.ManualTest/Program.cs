@@ -1,6 +1,7 @@
 ﻿namespace Ocelot.Provider.Rafty.ManualTest
 {
     using System.IO;
+    using Administration;
     using DependencyInjection;
     using Microsoft.AspNetCore.Hosting;
     using Microsoft.Extensions.Configuration;
