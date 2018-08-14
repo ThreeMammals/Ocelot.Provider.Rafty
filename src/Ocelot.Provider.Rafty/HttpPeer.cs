@@ -11,6 +11,7 @@
     using Newtonsoft.Json;
     using System;
     using System.Collections.Generic;
+    using Administration;
 
     public class HttpPeer : IPeer
     {
