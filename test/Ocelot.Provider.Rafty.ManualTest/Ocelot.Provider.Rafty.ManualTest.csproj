@@ -25,6 +25,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <PackageReference Include="Ocelot.Administration" Version="0.1.0" />
     <PackageReference Include="Microsoft.AspNetCore.All" Version="2.1.1" />
     <PackageReference Include="Microsoft.Extensions.Configuration.EnvironmentVariables" Version="2.1.1" />
     <PackageReference Include="Microsoft.Extensions.Configuration.FileExtensions" Version="2.1.1" />
@@ -34,7 +35,7 @@
     <PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="2.1.1" />
     <PackageReference Include="Microsoft.Extensions.Options.ConfigurationExtensions" Version="2.1.1" />
     <PackageReference Include="Consul" Version="0.7.2.5" />
-    <PackageReference Include="Ocelot" Version="10.0.1" />
+    <PackageReference Include="Ocelot" Version="10.0.2" />
     <PackageReference Include="Polly" Version="6.0.1" />
     <PackageReference Include="Rafty" Version="0.4.4" />
     <PackageReference Include="StyleCop.Analyzers" Version="1.0.2">

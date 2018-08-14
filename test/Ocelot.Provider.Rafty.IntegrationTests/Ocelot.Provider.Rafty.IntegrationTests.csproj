@@ -16,12 +16,13 @@
     <Service Include="{82a7f48d-3b50-4b1e-b82e-3ada8210c358}" />
   </ItemGroup>
   <ItemGroup>
+    <PackageReference Include="Ocelot.Administration" Version="0.1.0" />
     <PackageReference Include="CacheManager.Core" Version="1.1.2" />
     <PackageReference Include="CacheManager.Microsoft.Extensions.Logging" Version="1.1.2" />
     <PackageReference Include="IdentityServer4.AccessTokenValidation" Version="2.6.0" />
     <PackageReference Include="Microsoft.AspNetCore.All" Version="2.1.1" />
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.7.2" />
-    <PackageReference Include="Ocelot" Version="10.0.1" />
+    <PackageReference Include="Ocelot" Version="10.0.2" />
     <PackageReference Include="StyleCop.Analyzers" Version="1.0.2">
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>

@@ -36,12 +36,13 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="Ocelot.Administration" Version="0.1.0" />
     <PackageReference Include="CacheManager.Core" Version="1.1.2" />
     <PackageReference Include="CacheManager.Microsoft.Extensions.Logging" Version="1.1.2" />
     <PackageReference Include="Microsoft.AspNetCore.All" Version="2.1.1" />
     <PackageReference Include="Microsoft.AspNetCore.TestHost" Version="2.1.1" />
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.7.2" />
-    <PackageReference Include="Ocelot" Version="10.0.1" />
+    <PackageReference Include="Ocelot" Version="10.0.2" />
     <PackageReference Include="StyleCop.Analyzers" Version="1.0.2">
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
